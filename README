@@ -1,0 +1,20 @@
+# Pomodoro Timer Application
+
+The Pomodoro Timer is a desktop application developed in Python using the Tkinter library, designed to enhance productivity through the Pomodoro Technique. This technique involves working in intervals, traditionally 25 minutes in length, separated by short breaks. With this application, users can customize the duration of Pomodoros and breaks according to their preferences.
+
+## Features
+
+- **Customizable Timer Durations**: Set work sessions, short breaks, and long breaks to fit your workflow.
+- **Start/Pause/Continue**: Begin a new session or pause and continue existing ones with ease.
+- **Skip Functionality**: Move on to the next session or break without waiting for the current one to finish.
+- **Reset Capability**: Easily reset the current timer phase and counter at any time.
+- **Session Completion Counter**: Keep track of how many Pomodoro sessions you've completed in a day.
+
+## Getting Started
+
+To use the Pomodoro Timer, you'll need Python installed on your system. Clone this repository to your local machine, navigate to the project directory, and run the application with Python.
+
+```bash
+git clone https://github.com/yourusername/pomodoro-timer.git
+cd pomodoro-timer
+python main.py
